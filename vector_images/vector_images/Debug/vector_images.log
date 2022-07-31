@@ -1,0 +1,16 @@
+﻿  InputManager.cpp
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\FigureManager.h(21,21): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(69,9): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(90,9): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(111,9): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(113,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(126,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(132,9): warning C4018: '<': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(132,40): warning C4018: '<=': signed/unsigned mismatch
+D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\vector_images\InputManager.cpp(147,9): warning C4018: '<': signed/unsigned mismatch
+  vector_images.vcxproj -> D:\2ри семестър, 2ри курс\ооп\vector graphics project\vector_images\Debug\vector_images.exe
